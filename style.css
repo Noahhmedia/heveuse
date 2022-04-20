@@ -1,0 +1,8 @@
+.hi {
+    max-height: 300%;
+    max-width: 300%;
+    object-fit: contain;
+    object-position: center bottom;
+    width: 200%;
+    color: blueviolet;
+}
